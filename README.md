@@ -1,5 +1,3 @@
-# 100-Days-of-Python-Pro-Bootcamp
-My daily progress and projects through the 100 Days of Code: The Complete Python Pro Bootcamp. Building a solid foundation in Python, one day at a time.
 # 🐍 100 Days of Code: The Complete Python Pro Bootcamp
 
 Welcome to my journey through the 100 Days of Code challenge! This repository documents my daily progress, projects, and the concepts I'm mastering along the way. 
